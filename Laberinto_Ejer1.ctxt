@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Laberinto_Ejer1
+comment1.params=n\ maze
+comment1.target=boolean\ puedoSalir(int,\ java.lang.String[])
+comment1.text=para\ ingresar\ el\ maze\ se\ debe\ ingresar\ los\ String\ sin\ espacios("\ ")\ por\ ejemplo\:\ \r\n{"S*???",\ "?****",\ "??*?*",\ "??*?*",\ "??**E"}
+comment2.params=i\ j\ maze
+comment2.target=int[]\ getPosS(int,\ int,\ java.lang.String[])
+comment3.params=x\ y\ maze
+comment3.target=boolean\ puedoSalir(int,\ int,\ java.lang.String[])
+comment4.params=x\ y\ maze
+comment4.target=boolean\ valida(int,\ int,\ java.lang.String[])
+numComments=5
